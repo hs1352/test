@@ -1,5 +1,5 @@
 package my_portfolio1;
 
 public class my_portfolio1 {
-	// .java 持失
+	// .java持失
 }
